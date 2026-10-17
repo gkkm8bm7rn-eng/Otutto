@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
-    "dev": "node scripts/serve.mjs"
+    "dev": "node scripts/serve.mjs",
+    "publish:pages": "node scripts/publish-pages.mjs"
   },
   "engines": { "node": ">=20.11" }
 }
