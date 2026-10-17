@@ -1,0 +1,23 @@
+{
+  "brand": "OTUTTO",
+  "tagline": "Фабрика-ателье мягкой мебели",
+  "description": "Мягкая мебель по индивидуальным размерам. Собственное производство в России, ручная работа, ткань и кожа.",
+  "sofas": [
+    { "name": "Palermo", "slug": "palermo", "image": "palermo-original.jpg" },
+    { "name": "Pierre", "slug": "pierre", "image": "pierre-original.jpg" },
+    { "name": "Taylor Lux", "slug": "taylor-lux" },
+    { "name": "Malta", "slug": "malta", "image": "malta-original.jpg" },
+    { "name": "Beverly", "slug": "beverly" },
+    { "name": "Bravo", "slug": "bravo", "image": "bravo-original.jpg" },
+    { "name": "Medici", "slug": "medici", "image": "medici-restored.webp", "description": "Плавная линия подлокотника переходит в спинку. Мягкий объём и модульная композиция позволяют дивану стать самостоятельным акцентом в интерьере." },
+    { "name": "Genoa", "slug": "genoa", "image": "genoa-original.jpg" },
+    { "name": "San Remo", "slug": "san-remo" },
+    { "name": "Como", "slug": "como", "image": "como-original.jpg" }
+  ],
+  "categories": [
+    { "slug": "sofas", "name": "Диваны", "index": "01", "text": "Выразительные формы. Ваш масштаб комфорта.", "image": "radius-interior", "crop": [40, 242, 980, 800] },
+    { "slug": "beds", "name": "Кровати", "index": "02", "text": "На ножках или с ящиком для хранения.", "image": "bed-interior", "crop": [0, 740, 1023, 797] },
+    { "slug": "armchairs", "name": "Кресла", "index": "03", "text": "Индивидуальный предмет. Личное пространство." },
+    { "slug": "dining", "name": "Мебель для столовых групп", "index": "04", "text": "Пропорции, материалы и характер вашего интерьера." }
+  ]
+}
