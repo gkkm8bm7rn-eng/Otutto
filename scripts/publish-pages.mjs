@@ -40,7 +40,7 @@ try {
   } else {
     git(['commit','-m','Publish OTUTTO static website'],checkout);
     git(['push','origin',`HEAD:refs/heads/${branch}`],checkout);
-    console.log(`Published static files to ${branch}. GitHub Pages must be enabled in repository settings.`);
+    console.log(`Published static files to ${branch}. GitHub Pages deploys this branch when it is selected in repository settings.`);
   }
 } finally {
   await rm(temp,{recursive:true,force:true});

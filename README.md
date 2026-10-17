@@ -34,9 +34,9 @@ npm run dev
 
 ### GitHub Pages
 
-Готовый сайт публикуется в отдельную ветку `gh-pages`. Адрес после включения Pages: **https://gkkm8bm7rn-eng.github.io/Otutto/**.
+Сайт опубликован из отдельной ветки `gh-pages`: **https://gkkm8bm7rn-eng.github.io/Otutto/**. Адрес публичный и не требует входа в аккаунт.
 
-Владелец репозитория один раз открывает [Settings → Pages](https://github.com/gkkm8bm7rn-eng/Otutto/settings/pages), выбирает **Deploy from a branch**, ветку **gh-pages**, папку **/(root)** и нажимает **Save**. Подключённое приложение может сохранять файлы, но GitHub не предоставил ему разрешение включать Pages (API возвращает `403 Resource not accessible by integration`). До включения Pages новый адрес ещё не работает.
+Pages уже настроен: **Deploy from a branch → gh-pages → /(root)**. Состояние публикации доступно в [Settings → Pages](https://github.com/gkkm8bm7rn-eng/Otutto/settings/pages). При переносе в другой репозиторий эту настройку нужно проверить заново.
 
 Для следующего обновления сайта:
 
