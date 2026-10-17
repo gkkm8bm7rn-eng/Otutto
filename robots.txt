@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gkkm8bm7rn-eng.github.io/Otutto/sitemap.xml
