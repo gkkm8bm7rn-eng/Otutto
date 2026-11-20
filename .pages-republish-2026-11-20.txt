@@ -1,0 +1,2 @@
+Trigger GitHub Pages redeployment for OTUTTO on 2026-11-20.
+This file does not change the website's visible content.
